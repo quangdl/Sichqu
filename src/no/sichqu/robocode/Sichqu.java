@@ -1,7 +1,9 @@
 package no.sichqu.robocode;
 
-public class Sichqu extends Robots {
-    public void run(){
+import robocode.AdvancedRobot;
 
+public class Sichqu extends AdvancedRobot {
+    public void run(){
+        //Test
     }
 }
