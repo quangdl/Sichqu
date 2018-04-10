@@ -1,6 +1,6 @@
 package no.sichqu.robocode;
 
-public class Sichqu {
+public class Sichqu extends Robots {
     public void run(){
 
     }
