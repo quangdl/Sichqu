@@ -1,17 +1,19 @@
 package no.sichqu.robocode;
 
-<<<<<<< Updated upstream
-import robocode.AdvancedRobot;
-
-public class Sichqu extends AdvancedRobot {
-    public void run(){
-        //Test
-=======
 import robocode.*;
 
-public class sichqu extends AdvancedRobot {
-    public void run(){
-        
->>>>>>> Stashed changes
+public class Sichqu extends AdvancedRobot {
+    public void run() {
+        //Christopher er en n00b!
+
+        //nOOben fikk det endelig til!
+
+        //Herregud, er det mulig!
+        // Test 101
+        while (true) {
+            // Det den ska gjøre
+            getX
+        }
+
     }
 }
